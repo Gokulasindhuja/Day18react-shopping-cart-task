@@ -1,137 +1,137 @@
 const productdata = [
  {
-  "productName": "Fantastic Steel Fish",
+  "productName": "Premium Quality Shirt",
   "productImg": "http://placeimg.com/640/480/city",
-  "productPrice": "173.00",
+  "productPrice": "25.00", // Updated price
   "productRating": 21362,
   "sale": true,
-  "productSalePrice": "201.00",
+  "productSalePrice": "30.00", // Updated sale price
   "id": "1"
  },
  {
-  "productName": "Handmade Concrete Fish",
+  "productName": "Stylish Jeans",
   "productImg": "http://placeimg.com/640/480/animals",
-  "productPrice": "234.00",
+  "productPrice": "45.00", // Updated price
   "productRating": 22729,
   "sale": false,
-  "productSalePrice": "66.00",
+  "productSalePrice": "40.00", // Updated sale price
   "id": "2"
  },
  {
-  "productName": "Fantastic Granite Chair",
+  "productName": "Trendy Sneakers",
   "productImg": "http://placeimg.com/640/480/nightlife",
-  "productPrice": "34.00",
+  "productPrice": "60.00", // Updated price
   "productRating": 46460,
   "sale": false,
-  "productSalePrice": "785.00",
+  "productSalePrice": "55.00", // Updated sale price
   "id": "3"
  },
  {
-  "productName": "Gorgeous Plastic Chair",
+  "productName": "Classic Watch",
   "productImg": "http://placeimg.com/640/480/nature",
-  "productPrice": "419.00",
+  "productPrice": "80.00", // Updated price
   "productRating": 53485,
   "sale": false,
-  "productSalePrice": "144.00",
+  "productSalePrice": "75.00", // Updated sale price
   "id": "4"
  },
  {
-  "productName": "Unbranded Concrete Soap",
+  "productName": "Elegant Handbag",
   "productImg": "http://placeimg.com/640/480/transport",
-  "productPrice": "501.00",
+  "productPrice": "120.00", // Updated price
   "productRating": 20605,
   "sale": true,
-  "productSalePrice": "582.00",
+  "productSalePrice": "100.00", // Updated sale price
   "id": "5"
  },
  {
-  "productName": "Licensed Fresh Bacon",
+  "productName": "Luxury Perfume",
   "productImg": "http://placeimg.com/640/480/technics",
-  "productPrice": "828.00",
+  "productPrice": "150.00", // Updated price
   "productRating": 58463,
   "sale": true,
-  "productSalePrice": "675.00",
+  "productSalePrice": "130.00", // Updated sale price
   "id": "6"
  },
  {
-  "productName": "Incredible Rubber Ball",
+  "productName": "Designer Sunglasses",
   "productImg": "http://placeimg.com/640/480/sports",
-  "productPrice": "344.00",
+  "productPrice": "100.00", // Updated price
   "productRating": 82464,
   "sale": false,
-  "productSalePrice": "186.00",
+  "productSalePrice": "90.00", // Updated sale price
   "id": "7"
  },
  {
-  "productName": "Licensed Plastic Fish",
+  "productName": "Chic Earrings",
   "productImg": "http://placeimg.com/640/480/people",
-  "productPrice": "199.00",
+  "productPrice": "30.00", // Updated price
   "productRating": 81966,
   "sale": true,
-  "productSalePrice": "854.00",
+  "productSalePrice": "25.00", // Updated sale price
   "id": "8"
  },
  {
-  "productName": "Fantastic Fresh Chips",
+  "productName": "Comfy Lounge Pants",
   "productImg": "http://placeimg.com/640/480/fashion",
-  "productPrice": "15.00",
+  "productPrice": "35.00", // Updated price
   "productRating": 42494,
   "sale": false,
-  "productSalePrice": "612.00",
+  "productSalePrice": "30.00", // Updated sale price
   "id": "9"
  },
  {
-  "productName": "Tasty Concrete Keyboard",
+  "productName": "Cozy Blanket",
   "productImg": "http://placeimg.com/640/480/sports",
-  "productPrice": "698.00",
+  "productPrice": "50.00", // Updated price
   "productRating": 24425,
   "sale": false,
-  "productSalePrice": "646.00",
+  "productSalePrice": "45.00", // Updated sale price
   "id": "10"
  },
  {
-  "productName": "Generic Granite Soap",
+  "productName": "Soft Pillow",
   "productImg": "http://placeimg.com/640/480/abstract",
-  "productPrice": "78.00",
+  "productPrice": "15.00", // Updated price
   "productRating": 42983,
   "sale": false,
-  "productSalePrice": "130.00",
+  "productSalePrice": "12.00", // Updated sale price
   "id": "11"
  },
  {
-  "productName": "Tasty Steel Computer",
+  "productName": "Vintage Jacket",
   "productImg": "http://placeimg.com/640/480/fashion",
-  "productPrice": "192.00",
+  "productPrice": "70.00", // Updated price
   "productRating": 47524,
   "sale": true,
-  "productSalePrice": "526.00",
+  "productSalePrice": "60.00", // Updated sale price
   "id": "12"
  },
  {
-  "productName": "Licensed Plastic Chips",
+  "productName": "Modern Backpack",
   "productImg": "http://placeimg.com/640/480/abstract",
-  "productPrice": "857.00",
+  "productPrice": "60.00", // Updated price
   "productRating": 28463,
   "sale": true,
-  "productSalePrice": "902.00",
+  "productSalePrice": "50.00", // Updated sale price
   "id": "13"
  },
  {
-  "productName": "Small Plastic Gloves",
+  "productName": "Cosy Slippers",
   "productImg": "http://placeimg.com/640/480/business",
-  "productPrice": "269.00",
+  "productPrice": "25.00", // Updated price
   "productRating": 36692,
   "sale": false,
-  "productSalePrice": "247.00",
+  "productSalePrice": "20.00", // Updated sale price
   "id": "14"
  },
  {
-  "productName": "Intelligent Plastic Shoes",
+  "productName": "Warm Scarf",
   "productImg": "http://placeimg.com/640/480/food",
-  "productPrice": "96.00",
+  "productPrice": "20.00", // Updated price
   "productRating": 14080,
   "sale": false,
-  "productSalePrice": "188.00",
+  "productSalePrice": "18.00", // Updated sale price
   "id": "15"
  }
 ];
